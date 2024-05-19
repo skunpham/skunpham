@@ -29,11 +29,11 @@ Hi, I'm Truong Pham Anh(Mr), have about 2 years of experience in Software and Mo
 
 
 ## 🤠 My Github - Overview
-<p align="center">
+<div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=skunpham&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="width:300px; height:200px; margin:10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skunpham&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="width:300px; height:200px; margin:10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=skunpham&theme=vue-dark&hide_border=true" alt="GitHub Streak" style="width:300px; height:200px; margin:10px;">
-<p align="center">
+</div>
 
 
 ## 🏆 GitHub Trophies
