@@ -1,9 +1,9 @@
 ### Hello World 🖥️ 🖐️
-Hi, I'm Truong Pham Anh(Mr), have about 2 years of experience in Software and Mobile App, currently I'm working as a Junior Android Developer.
+Hi, I'm Truong Pham Anh(Mr), have more than 3 years of experience in Software and Mobile App, currently I'm working as a Middle Android Developer.
 
 ## About me 🐬
 - 🖐️ I'm Pham Anh Truong.
-- 🖥️ I’m currently Junior Android Developer.
+- 🖥️ I’m currently Middle Android Developer.
 - 😄 Pronouns: He/His
 
 ## 📫 How to reach me:
